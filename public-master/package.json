@@ -1,0 +1,16 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "jsonpaketti",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "path": "^0.12.7"
+  },
+  "author": "Tiia",
+  "license": "ISC"
+}
